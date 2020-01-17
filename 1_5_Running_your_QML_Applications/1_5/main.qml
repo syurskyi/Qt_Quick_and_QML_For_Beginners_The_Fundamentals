@@ -1,5 +1,5 @@
-import QtQuick 2.12
-import QtQuick.Window 2.12
+import QtQuick 2.9
+import QtQuick.Window 2.2
 
 Window {
     visible: true
@@ -17,3 +17,4 @@ Window {
         console.log("Component loaded")
     }
 }
+
